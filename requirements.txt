@@ -1,0 +1,12 @@
+langchain-community
+langchain_core
+langchain-core
+langchain
+langchain-huggingface
+huggingface-hub
+sentence-transformers
+faiss-cpu  # or faiss-gpu if you're using GPU
+pypdf
+python-dotenv
+streamlit
+langchain-core
